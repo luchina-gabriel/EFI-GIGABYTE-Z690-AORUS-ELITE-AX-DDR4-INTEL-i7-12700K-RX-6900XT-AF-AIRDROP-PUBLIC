@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z690 Aorus Elite AX DDR4, Intel Core i7 12700K, 4x16Gb DDR4 3600MHz (XMP), AMD Radeon RX 6900 XT (Device ID AF) and AirDrop
 
+<img width="2628" height="1186" alt="macOS - Updated" src="https://github.com/user-attachments/assets/f6351d12-e912-42c9-b1b0-a5a1f202c100" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.5)
